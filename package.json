@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/tomasz-konecki/To_do_app_Node.js/issues"
   },
-  "homepage": "https://github.com/tomasz-konecki/To_do_app_Node.js#readme"
+  "homepage": "https://github.com/tomasz-konecki/To_do_app_Node.js#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
 }
