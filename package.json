@@ -1,0 +1,20 @@
+{
+  "name": "To_do_app_Node.js",
+  "version": "1.0.0",
+  "description": "'To do' app - Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasz-konecki/To_do_app_Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasz-konecki/To_do_app_Node.js/issues"
+  },
+  "homepage": "https://github.com/tomasz-konecki/To_do_app_Node.js#readme"
+}
